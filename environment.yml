@@ -1,0 +1,21 @@
+name: swot-polynya
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy
+  - scipy
+  - matplotlib
+  - cartopy
+  - netCDF4
+  - h5py
+  - pyproj
+  - scikit-learn
+  - xarray
+  - pandas
+  - cmocean
+  - pyresample
+  - pip
+  - pip:
+    - icepyx
