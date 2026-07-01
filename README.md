@@ -4,7 +4,7 @@ Analysis code for:
 
 > **Resolving sea ice production and retention at kilometre scales in Ross Sea coastal polynyas**  
 > Lu Zhou, Andrew F. Thompson, Marte Hofsteenge, Sohey Nihashi, Shiming Xu, Michiel van den Broeke  
-> *Science Advances* (submitted 2025)
+> *Science Advances* (submitted 2026)
 
 ---
 
